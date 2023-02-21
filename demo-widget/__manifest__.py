@@ -13,7 +13,7 @@
         """,
     "depends" : ['base','website'],
     "data" : [
-        # "views/mail_compose_message_view.xml",
+        "views/snippets.xml",
         ],
     "installable" : True,
     "auto_install" : False,
