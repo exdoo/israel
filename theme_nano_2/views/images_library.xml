@@ -3,160 +3,160 @@
 
 <!-- Theme Additional Images -->
 <record id="image_01" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_01</field>
-    <field name="name">theme_nano.image_01</field>
+    <field name="key">theme_nano_2.image_01</field>
+    <field name="name">theme_nano_2.image_01</field>
     <field name="url">/theme_nano_2/static/src/img/theme/01.jpg</field>
 </record>
 <record id="image_02" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_02</field>
-    <field name="name">theme_nano.image_02</field>
+    <field name="key">theme_nano_2.image_02</field>
+    <field name="name">theme_nano_2.image_02</field>
     <field name="url">/theme_nano_2/static/src/img/theme/02.jpg</field>
 </record>
 <record id="image_03" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_03</field>
-    <field name="name">theme_nano.image_03</field>
+    <field name="key">theme_nano_2.image_03</field>
+    <field name="name">theme_nano_2.image_03</field>
     <field name="url">/theme_nano_2/static/src/img/theme/03.jpg</field>
 </record>
 <record id="image_04" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_04</field>
-    <field name="name">theme_nano.image_04</field>
+    <field name="key">theme_nano_2.image_04</field>
+    <field name="name">theme_nano_2.image_04</field>
     <field name="url">/theme_nano_2/static/src/img/theme/04.jpg</field>
 </record>
 <record id="image_05" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_05</field>
-    <field name="name">theme_nano.image_05</field>
+    <field name="key">theme_nano_2.image_05</field>
+    <field name="name">theme_nano_2.image_05</field>
     <field name="url">/theme_nano_2/static/src/img/theme/05.jpg</field>
 </record>
 <record id="image_06" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_06</field>
-    <field name="name">theme_nano.image_06</field>
+    <field name="key">theme_nano_2.image_06</field>
+    <field name="name">theme_nano_2.image_06</field>
     <field name="url">/theme_nano_2/static/src/img/theme/06.jpg</field>
 </record>
 <record id="image_07" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_07</field>
-    <field name="name">theme_nano.image_07</field>
+    <field name="key">theme_nano_2.image_07</field>
+    <field name="name">theme_nano_2.image_07</field>
     <field name="url">/theme_nano_2/static/src/img/theme/07.jpg</field>
 </record>
 <record id="image_08" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_08</field>
-    <field name="name">theme_nano.image_08</field>
+    <field name="key">theme_nano_2.image_08</field>
+    <field name="name">theme_nano_2.image_08</field>
     <field name="url">/theme_nano_2/static/src/img/theme/08.jpg</field>
 </record>
 <record id="image_09" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_09</field>
-    <field name="name">theme_nano.image_09</field>
+    <field name="key">theme_nano_2.image_09</field>
+    <field name="name">theme_nano_2.image_09</field>
     <field name="url">/theme_nano_2/static/src/img/theme/09.jpg</field>
 </record>
 <record id="image_10" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_10</field>
-    <field name="name">theme_nano.image_10</field>
+    <field name="key">theme_nano_2.image_10</field>
+    <field name="name">theme_nano_2.image_10</field>
     <field name="url">/theme_nano_2/static/src/img/theme/10.jpg</field>
 </record>
 <record id="image_11" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_11</field>
-    <field name="name">theme_nano.image_11</field>
+    <field name="key">theme_nano_2.image_11</field>
+    <field name="name">theme_nano_2.image_11</field>
     <field name="url">/theme_nano_2/static/src/img/theme/11.jpg</field>
 </record>
 <record id="image_12" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_12</field>
-    <field name="name">theme_nano.image_12</field>
+    <field name="key">theme_nano_2.image_12</field>
+    <field name="name">theme_nano_2.image_12</field>
     <field name="url">/theme_nano_2/static/src/img/theme/12.jpg</field>
 </record>
 <record id="image_13" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_13</field>
-    <field name="name">theme_nano.image_13</field>
+    <field name="key">theme_nano_2.image_13</field>
+    <field name="name">theme_nano_2.image_13</field>
     <field name="url">/theme_nano_2/static/src/img/theme/13.jpg</field>
 </record>
 <record id="image_14" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_14</field>
-    <field name="name">theme_nano.image_14</field>
+    <field name="key">theme_nano_2.image_14</field>
+    <field name="name">theme_nano_2.image_14</field>
     <field name="url">/theme_nano_2/static/src/img/theme/14.jpg</field>
 </record>
 <record id="image_15" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_15</field>
-    <field name="name">theme_nano.image_15</field>
+    <field name="key">theme_nano_2.image_15</field>
+    <field name="name">theme_nano_2.image_15</field>
     <field name="url">/theme_nano_2/static/src/img/theme/15.jpg</field>
 </record>
 <record id="image_16" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_16</field>
-    <field name="name">theme_nano.image_16</field>
+    <field name="key">theme_nano_2.image_16</field>
+    <field name="name">theme_nano_2.image_16</field>
     <field name="url">/theme_nano_2/static/src/img/theme/16.jpg</field>
 </record>
 <record id="image_17" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_17</field>
-    <field name="name">theme_nano.image_17</field>
+    <field name="key">theme_nano_2.image_17</field>
+    <field name="name">theme_nano_2.image_17</field>
     <field name="url">/theme_nano_2/static/src/img/theme/17.jpg</field>
 </record>
 <record id="image_18" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_18</field>
-    <field name="name">theme_nano.image_18</field>
+    <field name="key">theme_nano_2.image_18</field>
+    <field name="name">theme_nano_2.image_18</field>
     <field name="url">/theme_nano_2/static/src/img/theme/18.jpg</field>
 </record>
 <record id="image_19" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_19</field>
-    <field name="name">theme_nano.image_19</field>
+    <field name="key">theme_nano_2.image_19</field>
+    <field name="name">theme_nano_2.image_19</field>
     <field name="url">/theme_nano_2/static/src/img/theme/19.jpg</field>
 </record>
 <record id="image_20" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_20</field>
-    <field name="name">theme_nano.image_20</field>
+    <field name="key">theme_nano_2.image_20</field>
+    <field name="name">theme_nano_2.image_20</field>
     <field name="url">/theme_nano_2/static/src/img/theme/20.jpg</field>
 </record>
 <record id="image_21" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_21</field>
-    <field name="name">theme_nano.image_21</field>
+    <field name="key">theme_nano_2.image_21</field>
+    <field name="name">theme_nano_2.image_21</field>
     <field name="url">/theme_nano_2/static/src/img/theme/21.jpg</field>
 </record>
 <record id="image_22" model="theme.ir.attachment">
-    <field name="key">theme_nano.image_22</field>
-    <field name="name">theme_nano.image_22</field>
+    <field name="key">theme_nano_2.image_22</field>
+    <field name="name">theme_nano_2.image_22</field>
     <field name="url">/theme_nano_2/static/src/img/theme/22.jpg</field>
 </record>
 
 <!-- Patterns -->
 <record id="bg_pattern_01" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_01</field>
-    <field name="name">theme_nano.background_pattern_01</field>
+    <field name="key">theme_nano_2.bg_pattern_01</field>
+    <field name="name">theme_nano_2.background_pattern_01</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/01.png</field>
 </record>
 <record id="bg_pattern_02" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_02</field>
-    <field name="name">theme_nano.background_pattern_02</field>
+    <field name="key">theme_nano_2.bg_pattern_02</field>
+    <field name="name">theme_nano_2.background_pattern_02</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/02.png</field>
 </record>
 <record id="bg_pattern_03" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_03</field>
-    <field name="name">theme_nano.background_pattern_03</field>
+    <field name="key">theme_nano_2.bg_pattern_03</field>
+    <field name="name">theme_nano_2.background_pattern_03</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/03.png</field>
 </record>
 <record id="bg_pattern_04" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_04</field>
-    <field name="name">theme_nano.background_pattern_04</field>
+    <field name="key">theme_nano_2.bg_pattern_04</field>
+    <field name="name">theme_nano_2.background_pattern_04</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/04.png</field>
 </record>
 <record id="bg_pattern_05" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_05</field>
-    <field name="name">theme_nano.background_pattern_05</field>
+    <field name="key">theme_nano_2.bg_pattern_05</field>
+    <field name="name">theme_nano_2.background_pattern_05</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/05.png</field>
 </record>
 <record id="bg_pattern_06" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_06</field>
-    <field name="name">theme_nano.background_pattern_06</field>
+    <field name="key">theme_nano_2.bg_pattern_06</field>
+    <field name="name">theme_nano_2.background_pattern_06</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/06.png</field>
 </record>
 <record id="bg_pattern_07" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_07</field>
-    <field name="name">theme_nano.background_pattern_07</field>
+    <field name="key">theme_nano_2.bg_pattern_07</field>
+    <field name="name">theme_nano_2.background_pattern_07</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/07.png</field>
 </record>
 <record id="bg_pattern_08" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_08</field>
-    <field name="name">theme_nano.background_pattern_08</field>
+    <field name="key">theme_nano_2.bg_pattern_08</field>
+    <field name="name">theme_nano_2.background_pattern_08</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/08.png</field>
 </record>
 <record id="bg_pattern_09" model="theme.ir.attachment">
-    <field name="key">theme_nano.bg_pattern_09</field>
-    <field name="name">theme_nano.background_pattern_09</field>
+    <field name="key">theme_nano_2.bg_pattern_09</field>
+    <field name="name">theme_nano_2.background_pattern_09</field>
     <field name="url">/theme_nano_2/static/src/img/patterns/09.png</field>
 </record>
 
