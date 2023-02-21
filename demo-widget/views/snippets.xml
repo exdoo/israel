@@ -2,19 +2,21 @@
 <odoo>
 <template id="basic_snippet" name="Basic Snippet">
    
-  <div id="hero" data-type="background" class="hero cms-editable">
-        <div class="container-medium">
-          <div class="padding-vertical padding-hero">
-            <div class="hero-content">
-              <div id="hero-leyend" class="element-content-grid align-center cms-editable w-node-_3ab50871-da6d-abce-433b-5e41cabca55d-94d47e3c">
-                <a href="#" class="logo-karhu w-inline-block">image here</a>
-                <h1>CALENDARIO DE ACTIVIDADES</h1>
-                <p class="text-size-medium">Acompáñanos y participa en los eventos que CF KARHU organiza para ti.¡No te pierdas de las actividades!</p>
-              </div>
+  <div class="footer">
+    <div class="page-padding">
+      <div class="container-medium">
+        <div class="padding-vertical padding-large">
+          <div class="simple-footer">
+            <a href="#" class="footer-brand w-inline-block"><img src="images/cf-karhu.svg" loading="lazy" alt=""></a>
+            <div class="flex-element">
+              <a href="https://www.facebook.com/cfkarhu" target="_blank" class="icon-button w-inline-block"><img src="images/facebook.svg" loading="lazy" alt=""></a>
+              <a href="https://www.instagram.com/cf.karhu/" target="_blank" class="icon-button w-inline-block"><img src="images/instagram.svg" loading="lazy" alt=""></a>
             </div>
           </div>
         </div>
       </div>
+    </div>
+  </div>
 
 </template>
 
